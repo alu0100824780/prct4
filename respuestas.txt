@@ -1,4 +1,10 @@
 27) RVM es una plataforma software diseñada para gestionar múltiples 
 instalaciones (versiones) de ruby en una misma máquina.
 
+34) Con el intérprete de Ruby (ruby <fichero>) no nos muestra la prompt
+ni tampoco muestra la devolucion del programa como es el caso del 
+intérprete irb que nos devuelve un => nil.
+
+
+
 
