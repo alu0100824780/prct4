@@ -1,0 +1,4 @@
+27) RVM es una plataforma software diseñada para gestionar múltiples 
+instalaciones (versiones) de ruby en una misma máquina.
+
+
