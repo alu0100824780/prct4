@@ -5,6 +5,10 @@ instalaciones (versiones) de ruby en una misma máquina.
 ni tampoco muestra la devolucion del programa como es el caso del 
 intérprete irb que nos devuelve un => nil.
 
+41) Con el intérprete interactivo simplemente ejecutamos un programa
+ya escrito para ver el resultado de su ejecución. Sin embargo con el Pry
+podemos ejecutar los métodos o variar valores de las variables en tiempo
+real para ver los resultados, se puede usar para depurar.
 
 
 
